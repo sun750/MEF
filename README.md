@@ -1,6 +1,6 @@
 # 多尺度边缘感知网络
 
-![整体框架]()![model](.\images\model.png)
+![整体框架](images/model.png)
 
 ## 1、安装
 
@@ -22,4 +22,4 @@ CUDA_VISIBLE_DEVICES=0 torchrun --standalone --nnodes=1 --nproc_per_node=1 train
 
 ## 4、结果
 
-![对比实验](.\images\result.png)
+![对比实验](images/result.png)

@@ -1,6 +1,6 @@
 # 多尺度边缘感知网络
 
-![整体框架](images/model.png)
+![整体框架](images/abstract.png)
 
 ## 1、安装
 
